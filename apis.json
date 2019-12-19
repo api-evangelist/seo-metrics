@@ -1,0 +1,60 @@
+{
+    "name": "SEO metrics",
+    "description": "Kong is the world's most popular open source microservice API gateway. Use Kong to secure, manage and orchestrate microservice APIs.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/925-seo-metrics.jpg",
+    "tags": [
+        "have api",
+        "metrics"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/seo-metrics\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "SEO metrics",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/925-seo-metrics.jpg",
+            "humanURL": "http:\/\/www.mashape.com\/apis\/SEO+metrics",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/seo-metrics-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.mashape.com\/apis\/SEO+metrics"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/kong-42b1"
+        },
+        {
+            "type": "Email",
+            "url": "bizdev@konghq.com"
+        },
+        {
+            "type": "Email",
+            "url": "press@konghq.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@konghq.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@konghq.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/thekonginc"
+        }
+    ]
+}
